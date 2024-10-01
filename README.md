@@ -92,7 +92,7 @@ endmodule
 **RTL realization Output:** 
 ![output](./Screenshot%202024-09-12%20133419.png)
 
-**RTL**
+**Timing Diagram**
 ![output](./RTL%20Special.png)
 **Result:**
 
